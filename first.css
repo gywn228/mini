@@ -1,0 +1,7 @@
+.first {
+  width: 100vw;
+  height: 800px;
+  background-image: url("짱구.gif");
+  background-size: cover;
+  background-position: center;
+}
